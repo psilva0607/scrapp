@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Scrapp</string>
+    <string name="text_welcome">Bienvenidos a \n ScrAPP</string>
+    <string name="text_email">Correo electrónico</string>
+    <string name="text_pwd">Contraseña</string>
+    <string name="text_login">Ingresar</string>
+    <string name="text_new_user">¿Eres nuevo?, Regístrate aquí</string>
+    <string name="other_method_register">Otros métodos</string>
+    <string name="text_username">Nombre de usuario</string>
+    <string name="text_register">Registrarme</string>
+    <string name="text_back">Volver</string>
+    <string name="text_hi">Hola %1$s</string>
+    <string name="text_question">¿Qué deseas hacer hoy?</string>
+    <string name="text_workshop">Talleres</string>
+    <string name="text_riffle">Sorteos</string>
+    <string name="text_catalogue">Catálogo</string>
+    <string name="text_cart">Carrito</string>
+    <string name="text_check_order">Consultar pedidos</string>
+    <string name="todo">todo</string>
+</resources>
